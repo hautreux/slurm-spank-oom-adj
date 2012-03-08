@@ -1,7 +1,7 @@
 Summary: Slurm spank plugin for OOM adjust 
 Name: slurm-spank-oom-adj
 Version: 0.1.0
-Release: 1.cea
+Release: 1
 License: GPL
 Group: System Environment/Base
 Source0: %{name}-%{version}.tar.gz
